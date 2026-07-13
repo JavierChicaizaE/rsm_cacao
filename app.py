@@ -1210,18 +1210,6 @@ st.markdown("""
             <div class="hero-member-card">
                 <div class="hero-member-name">Chicaiza Eduardo</div>
             </div>
-            <div class="hero-member-card">
-                <div class="hero-member-name">Navarrete Marlon</div>
-            </div>
-            <div class="hero-member-card">
-                <div class="hero-member-name">Pineda Fabricio</div>
-            </div>
-            <div class="hero-member-card">
-                <div class="hero-member-name">Soria Samanta</div>
-            </div>
-            <div class="hero-member-card" style="grid-column: 1 / -1;">
-                <div class="hero-member-name">Tapia Alex</div>
-            </div>
         </div>
     </div>
 </div>
