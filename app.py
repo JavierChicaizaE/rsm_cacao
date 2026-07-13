@@ -1204,11 +1204,17 @@ st.markdown("""
     </div>
     <!-- Panel derecho -->
     <div class="hero-right">
-        <div class="hero-group-label">Integrantes &mdash; Grupo 10</div>
+        <div class="hero-group-label">Integrantes</div>
         <div class="hero-divider"></div>
         <div class="hero-members-grid">
             <div class="hero-member-card">
                 <div class="hero-member-name">Chicaiza Eduardo</div>
+            </div>
+            <div class="hero-member-card">
+                <div class="hero-member-name">Guamanarca Didier</div>
+            </div>
+            <div class="hero-member-card" style="grid-column: 1 / -1;">
+                <div class="hero-member-name">Tamay Katherine</div>
             </div>
         </div>
     </div>
